@@ -49,8 +49,6 @@ const Ruthann = new Player("Ruthann");
 
 Kevin.basketBall();
 Ruthann.basketBall();
-Kevin.steal();
-Ruthann.steal();
 
 // Principle 4
 
